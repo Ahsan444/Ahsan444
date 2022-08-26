@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Ahsan 👋</h1>
-<h3 align="center">A Flutter Developer, UIUX Designer & Quick learner</h3>
+<h3 align="center">Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan444&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan444" /> </p>
 
